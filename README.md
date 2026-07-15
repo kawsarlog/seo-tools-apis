@@ -21,7 +21,7 @@
 
 ## At a Glance
 
-> **3,081** production-ready SEO Tools APIs for keywords, rankings, backlinks, and SERP data.
+> **3,081** production-ready SEO Tools APIs.
 
 A focused, always-fresh index of SEO Tools APIs for keywords, rankings, backlinks, and SERP data. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
