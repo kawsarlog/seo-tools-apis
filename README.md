@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/kawsarlog/seo-tools-apis?style=for-the-badge&color=8b5cf6)](https://github.com/kawsarlog/seo-tools-apis/stargazers)
 [![Forks](https://img.shields.io/github/forks/kawsarlog/seo-tools-apis?style=for-the-badge&color=ec4899)](https://github.com/kawsarlog/seo-tools-apis/network/members)
 [![Last commit](https://img.shields.io/github/last-commit/kawsarlog/seo-tools-apis?style=for-the-badge&color=a78bfa)](https://github.com/kawsarlog/seo-tools-apis/commits/main)
-[![APIs](https://img.shields.io/badge/APIs-3,081-fbbf24?style=for-the-badge)](#)
+[![APIs](https://img.shields.io/badge/APIs-3,093-fbbf24?style=for-the-badge)](#)
 
 <p>
   <a href="#at-a-glance"><b>At a Glance</b></a> &nbsp;•&nbsp;
@@ -21,15 +21,15 @@
 
 ## At a Glance
 
-> **3,081** production-ready SEO Tools APIs.
+> **3,093** production-ready SEO Tools APIs.
 
 A focused, always-fresh index of SEO Tools APIs for keywords, rankings, backlinks, and SERP data. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
 | Metric | Value |
 |--------|-------|
-| **Total APIs** | **3,081** |
+| **Total APIs** | **3,093** |
 | **Categories** | 1 |
-| **Last updated** | 2026-07-15 |
+| **Last updated** | 2026-07-16 |
 | **Update cadence** | Daily, automated |
 
 ## The Categories
@@ -38,7 +38,7 @@ A focused, always-fresh index of SEO Tools APIs for keywords, rankings, backlink
   <tr>
     <td width="100%" valign="top">
       <h3>SEO Tools</h3>
-      <p><strong>3,081 APIs</strong></p>
+      <p><strong>3,093 APIs</strong></p>
       <p>Keywords, rankings, backlinks, and SERP data for search visibility.</p>
       <p><a href="./SEO_tools/"><strong>Open SEO Tools &rarr;</strong></a></p>
     </td>
@@ -55,7 +55,7 @@ A focused, always-fresh index of SEO Tools APIs for keywords, rankings, backlink
 ## Explore the Stack
 
 <details open>
-<summary><strong>SEO Tools — 3,081 APIs</strong></summary>
+<summary><strong>SEO Tools — 3,093 APIs</strong></summary>
 
 Keywords, rankings, backlinks, and SERP data for search visibility.
 
@@ -95,7 +95,7 @@ Keywords, rankings, backlinks, and SERP data for search visibility.
 
 <div align="center">
 
-**3,081 APIs** across **1 categories** — updated 2026-07-15
+**3,093 APIs** across **1 categories** — updated 2026-07-16
 <br /><sub>If this saved you time, a star helps others find it.</sub>
 
 </div>
